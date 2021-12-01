@@ -10,6 +10,8 @@
 
 - Three times exchange student :airplane:
 
+Connect with me on LinkedIn 👉[![Linkedin Badge](https://img.shields.io/badge/-Alvaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiquillo/)](https://www.linkedin.com/in/chiquillo/)
+
 나는 한양대학교를 사랑한다
 
  <p align="center"><a href="https://github.com/alvarochiqui/github-readme-stats">
