@@ -4,11 +4,11 @@
 
 - Currently studying Master's Degree in Big Data Analytics :computer::snake:
 
-- Once part of the debate team for the UCV Global Governance Debate & the competition organized by Yale University :rewind::loudspeaker:
+- Once part of the debate team for the UCV Global Governance Debate & the competition organized by Yale University 🔚:loudspeaker:
 
 - Experience in teamwork, at a tertiary as well as sportslevel :basketball:
 
-- Three times exchange student :airplane:
+- Three times exchange student :airplane: 1️⃣🇵🇱 2️⃣🇭🇷 3️⃣🇰🇷
 
 Connect with me on LinkedIn 👉[![Linkedin Badge](https://img.shields.io/badge/-Alvaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiquillo/)](https://www.linkedin.com/in/chiquillo/)
 
