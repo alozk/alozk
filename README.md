@@ -15,9 +15,9 @@ Connect with me on LinkedIn 👉[![Linkedin Badge](https://img.shields.io/badge/
 나는 한양대학교를 사랑한다
 
  <p align="center"><a href="https://github.com/alvarochiqui/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=alvarochiqui&show_icons=true&include_all_commits=true&theme=darkblue&hide_border=true" alt="Alvaro's github stats" width="53.65%"/> </a>
-<a href="https://github.com/alvarochiqui/github-readme-stats">
-<img width="44.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarochiqui&layout=compact&theme=darkblue&hide_border=true"  /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=alozk&show_icons=true&include_all_commits=true&theme=darkblue&hide_border=true" alt="Alvaro's github stats" width="53.65%"/> </a>
+<a href="https://github.com/alozk/github-readme-stats">
+<img width="44.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alozk&layout=compact&theme=darkblue&hide_border=true"  /></a>
   
 </p>
  
