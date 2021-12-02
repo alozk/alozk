@@ -1,10 +1,9 @@
 **Welcome to Alvaro's GitHub**
+- Once part of the debate team for representing Spain at NMUN 2020 NY & the competition organized by Yale University 🔚:loudspeaker:
 
 - Graduated in Bachelor's Degree in Business Administration and Management :books:
 
-- Currently studying Master's Degree in Big Data Analytics :computer::snake:
-
-- Once part of the debate team for the UCV Global Governance Debate & the competition organized by Yale University 🔚:loudspeaker:
+- Currently studying a Master's Degree in Big Data Analytics :computer::snake:
 
 - Experience in teamwork, at a tertiary as well as sportslevel :basketball:
 
