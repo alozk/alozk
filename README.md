@@ -5,8 +5,6 @@
 
 - Currently studying a Master's Degree in Big Data Analytics :computer::snake:
 
-- Experience in teamwork, at a tertiary as well as sportslevel :basketball:
-
 - Three times exchange student :airplane: 1️⃣🇵🇱 2️⃣🇭🇷 3️⃣🇰🇷
 
 Connect with me on LinkedIn 👉[![Linkedin Badge](https://img.shields.io/badge/-Alvaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiquillo/)](https://www.linkedin.com/in/chiquillo/)
