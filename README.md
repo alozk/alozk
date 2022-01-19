@@ -1,4 +1,7 @@
-**Welcome to Alvaro's GitHub**
+<p align="center">
+<strong>Welcome to Alvaro's GitHub</strong></p>
+</p>
+
 - Once part of the debate team for representing Spain at NMUN 2020 NY & the competition organized by Yale University 🔚:loudspeaker:
 
 - Graduated in Bachelor's Degree in Business Administration and Management :books:
