@@ -17,7 +17,7 @@
 </br>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/chiquillo/" target="_blank"><img src="https://img.icons8.com/fluency/240/000000/linkedin.png" height="50" width="50"></a>
+  <a href="https://www.linkedin.com/in/chiquillo/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="50" width="50"></a><a href="https://twitter.com/alozk__" target="_blank"><img src="https://img.icons8.com/color/53/000000/twitter--v2.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
  <p align="center"><a href="https://github.com/alozk/github-readme-stats">
