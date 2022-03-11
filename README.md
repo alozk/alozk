@@ -12,7 +12,7 @@
 <li>Currently studying a Master's Degree in Big Data Analytics :computer::snake:</li></li>
  </br>
  <br>
-<li>Three times exchange student :airplane:<img src="https://img.icons8.com/color/28/000000/poland.png"/> <img src="https://img.icons8.com/color/28/000000/croatia.png"/> <img src="https://img.icons8.com/color/28/000000/south-korea.png"/></li>
+<li>Three times exchange student :airplane:<img src="https://github.com/alozk/alozk/blob/main/flags/pl.svg" height="50%" width="2.5%"/>  <img src="https://github.com/alozk/alozk/blob/main/flags/hr.svg" height="50%" width="2.5%"/>  <img src="https://github.com/alozk/alozk/blob/main/flags/kr.svg" height="50%" width="2.5%"/></li>
 </ul>
 </br>
 </p>
