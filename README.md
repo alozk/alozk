@@ -12,12 +12,12 @@
 <li>Currently studying a Master's Degree in Big Data Analytics :computer::snake:</li></li>
  </br>
  <br>
-<li>Three times exchange student :airplane:<img src="https://github.com/alozk/alozk/blob/main/flags/pl.svg" height="50%" width="2.5%"/>  <img src="https://github.com/alozk/alozk/blob/main/flags/hr.svg" height="50%" width="2.5%"/>  <img src="https://github.com/alozk/alozk/blob/main/flags/kr.svg" height="50%" width="2.5%"/></li>
+<li>Three times exchange student :airplane:<img src="https://github.com/alozk/alozk/blob/main/svg/flags/pl.svg" height="50%" width="2.5%"/>  <img src="https://github.com/alozk/alozk/blob/main/svg/flags/hr.svg" height="50%" width="2.5%"/>  <img src="https://github.com/alozk/alozk/blob/main/svg/flags/kr.svg" height="50%" width="2.5%"/></li>
 </ul>
 </br>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/chiquillo/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="50" width="50"></a><a href="https://twitter.com/alozk__" target="_blank"><img src="https://img.icons8.com/color/53/000000/twitter--v2.png"></a>
+  <a href="https://www.linkedin.com/in/chiquillo/" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/rrss/linkedin.svg" height="50" width="50"></a><a href="https://twitter.com/alozk__" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/rrss/twitter.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
  <p align="center"><a href="https://github.com/alozk/github-readme-stats">
