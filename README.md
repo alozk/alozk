@@ -19,5 +19,6 @@
 
 <p>
 <a href="https://github.com/alozk/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=alozk&show_icons=true&theme=github_dark" alt="Alvaro's github stats" width="50%" HSPACE="10"/> </a><a href="https://www.linkedin.com/in/chiquillo/" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/rrss/linkedin.svg" height="170" width="70" HSPACE="60"></a><a href="https://twitter.com/alozk__" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/rrss/twitter.svg" height="170" width="70"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=alozk&show_icons=true&theme=github_dark" alt="Alvaro's github stats" width="50%" HSPACE="30"/> </a><a href="https://www.linkedin.com/in/chiquillo/" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/rrss/linkedin.svg" height="195" width="80" HSPACE="5"></a><a href="https://twitter.com/alozk__" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/rrss/twitter.svg" height="195" width="85"HSPACE="80"></a><a href="https://www.datacamp.com/profile/chiquillo" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/rrss/datacamp.svg " height="195" width="65">
+</a>
 </p>
