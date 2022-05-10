@@ -9,7 +9,7 @@
  </br>
  <p>
  </p>
-<li>Currently I am studying a Master's Degree in Big Data Analytics <img src="https://github.com/alozk/alozk/blob/main/svg/icons/python.svg" height="50%" width="5%" align='center'/><img src="https://github.com/alozk/alozk/blob/main/svg/icons/database.svg" height="50%" width="4%" align='center'/></li></li>
+<li>I am currently studying a Master's Degree in Big Data Analytics <img src="https://github.com/alozk/alozk/blob/main/svg/icons/python.svg" height="50%" width="5%" align='center'/><img src="https://github.com/alozk/alozk/blob/main/svg/icons/database.svg" height="50%" width="4%" align='center'/></li></li>
  </br>
 </p>
 <p>
