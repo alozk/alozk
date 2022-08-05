@@ -1,4 +1,4 @@
-# Welcome to Alvaro's GitHub <img src="https://github.com/alozk/alozk/blob/main/svg/icons/hello.gif" width="30%" align='center'>
+# Welcome to Alvaro's GitHub <img src="https://github.com/alozk/alozk/blob/main/svg/icons/hello.gif" width="10%" align='center'>
 <p>
  <li> Bachelor's Degree in Business Administration and Management and three times exchange student at <img src="https://github.com/alozk/alozk/blob/main/svg/flags/pl.svg" width="4%" align='center'/><img src="https://github.com/alozk/alozk/blob/main/svg/flags/hr.svg" width="4%" align='center' HSPACE="8"/><img src="https://github.com/alozk/alozk/blob/main/svg/flags/kr.svg" width="4%" align='center'/></li>
  </br>
