@@ -4,7 +4,7 @@
  </br>
  <li>Once part of the debate team for representing Spain at NMUN and a competition organized by Yale University <img src="https://github.com/alozk/alozk/blob/main/svg/icons/un.svg" width="5%" align='center'/></li>
  </br>
- <li>I am currently studying a Master's Degree in Data Analytics at <a href="https://edem.eu/master-big-data-analytics/" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/icons/edem.svg" height="50%" width="8%"/></a></li></li>
+ <li>I have completed a Master's Degree in Data Analytics at <a href="https://edem.eu/master-big-data-analytics/" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/icons/edem.svg" height="50%" width="8%"/></a></li></li>
  </br>
  <li>Clic and try learning the following softwares with me <a href="https://github.com/alozk/Learn-Python-for-Blanca" target="_blank"><img src="https://github.com/alozk/alozk/blob/main/svg/icons/python.svg" height="50%" width="5%" align='center'/><a href="https://github.com/alozk/Master-Big-Data-Analytics/tree/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/3.%20GIT" target="_blank"><img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/3.%20GIT/1.Pics/git.svg" height="50%" width="4%" align='center'/><a href="https://github.com/alozk/Master-Big-Data-Analytics/tree/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/5.%20DOCKER" target="_blank"><img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/5.%20DOCKER/1.Pics/docker.svg" height="50%" width="4%" align='center' HSPACE="2"/></a></li></li>
 </p>
